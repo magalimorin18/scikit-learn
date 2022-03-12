@@ -10,6 +10,8 @@
 build
 sklearn/datasets/__config__.py
 sklearn/**/*.html
+.env
+env
 
 dist/
 MANIFEST
